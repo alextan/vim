@@ -6,6 +6,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Lokaltog/vim-powerline'
+Plugin 'tpope/vim-commentary'
 let g:Powerline_symbols = 'fancy'
 set t_Co=256
 set laststatus=2
