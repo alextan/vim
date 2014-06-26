@@ -42,7 +42,7 @@ set cursorcolumn
 set cursorline
 
 "return the content to terminal
-set t_ti=t_te=
+"set t_ti=t_te=
 
 set title
 set novisualbell
@@ -62,8 +62,8 @@ set hlsearch
 set ignorecase
 set smartcase
 
-set foldenable
-set foldmethod=indent
+"set foldenable
+"set foldmethod=indent
 set smartindent
 set autoindent
 set shiftround
